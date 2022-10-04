@@ -1,4 +1,4 @@
-# Stroke_Prediction_Capston_Project
+# Stroke_Prediction_Capstone_Project
 
 ### The purpose of this project is to apply Classification and Predictive Analysis on the data:
 •	Identify the most important factors for stroke prediction.
